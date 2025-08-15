@@ -2,7 +2,7 @@
 
 A comprehensive real-time stock market dashboard that provides live stock data, market analysis, and AI-powered predictions for both Indian and international markets.
 
-![Stock Dashboard Screenshot](Screenshot 2025-08-15 120920.png)
+![Stock Dashboard Screenshot](https://github.com/AnkithBangre/stock-dashboard/blob/main/Screenshot%202025-08-15%20120920.png)
 
 ## ✨ Features
 
